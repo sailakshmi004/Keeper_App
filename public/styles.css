@@ -7,12 +7,12 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 body {
-  background: #eee;
+  background: #dba7a7;
   padding: 0 16px;
 }
 
 header {
-  background-color: #13d3f5;
+  background-color: #0f3a42;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -33,7 +33,7 @@ footer {
 }
 
 footer p {
-  color: #ccc;
+  color: #f2f1f1;
 }
 .note {
   background: #fff;
@@ -59,7 +59,7 @@ footer p {
   position: relative;
   float: right;
   margin-right: 10px;
-  color: #f5ba13;
+  color: #0f3a42;
   border: none;
   width: 36px;
   height: 36px;
@@ -90,7 +90,7 @@ form button {
   position: absolute;
   right: 18px;
   bottom: -18px;
-  background: #132df5;
+  background: #0f3a42;
   color: #fff;
   border: none;
   border-radius: 50%;
